@@ -57,7 +57,7 @@ encore auth login
 Add Encore's git remote to enable direct deployment:
 
 ```bash
-git remote add encore encore://user-auth-system-bxk2
+git remote add encore encore://leap-app-7wv2
 ```
 
 #### Step 3: Deploy Your Application
@@ -70,7 +70,7 @@ git commit -m "Deploy to Encore Cloud"
 git push encore
 ```
 
-Monitor your deployment progress in the [Encore Cloud dashboard](https://app.encore.dev/user-auth-system-bxk2/deploys).
+Monitor your deployment progress in the [Encore Cloud dashboard](https://app.encore.dev/leap-app-7wv2/deploys).
 
 ## GitHub Integration (Recommended for Production)
 
@@ -79,7 +79,7 @@ For production applications, we recommend integrating with GitHub instead of usi
 ### Connecting Your GitHub Account
 
 1. Open your app in the **Encore Cloud dashboard**
-2. Navigate to Encore Cloud [GitHub Integration settings](https://app.encore.cloud/user-auth-system-bxk2/settings/integrations/github)
+2. Navigate to Encore Cloud [GitHub Integration settings](https://app.encore.cloud/leap-app-7wv2/settings/integrations/github)
 3. Click **Connect Account to GitHub**
 4. Grant access to your repository
 
