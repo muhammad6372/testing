@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "type": "module",
+  "packageManager": "bun",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "encore.dev": "^1.48.8",
+    "jsonwebtoken": "^9.0.2"
+  },
+  "devDependencies": {
+    "jsonwebtoken": "^9.0.2",
+    "typescript": "^5.8.3",
+    "vitest": "^3.2.4"
+  }
+}
